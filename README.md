@@ -1,16 +1,21 @@
-# helios_tracker
+# 🌞 Helios Tracker  
 
-A new Flutter project.
+Selamat datang di **Helios Tracker**! Aplikasi inovatif ini dirancang untuk memantau sistem **solar tracker dual axis** dengan teknologi **Internet of Things (IoT)**. Dengan Helios Tracker, Anda dapat mengawasi kinerja panel surya secara **real-time** dan memastikan efisiensi maksimum dalam penangkapan sinar matahari. 🌍✨  
 
-## Getting Started
+## 🚀 Download Aplikasi  
 
-This project is a starting point for a Flutter application.
+Anda dapat mengunduh aplikasi Helios Tracker melalui tautan berikut:  
 
-A few resources to get you started if this is your first Flutter project:
+[Download Helios Tracker](https://heliostracker.sirem.web.id/)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📖 Cara Penggunaan  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Konfigurasi Koneksi Database  
+
+Sebelum menggunakan aplikasi, Anda perlu mengonfigurasi koneksi database. Berikut adalah langkah-langkahnya:  
+
+1. **Buka file `.env`**: Temukan file `.env` di direktori proyek Anda.  
+2. **Ubah IP Koneksi**: Gantilah nilai koneksi database dengan IP Anda. Untuk menemukan IP Anda, buka Command Prompt dan jalankan perintah berikut:  
+
+   ```bash  
+   ipconfig
